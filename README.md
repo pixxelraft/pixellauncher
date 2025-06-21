@@ -14,6 +14,18 @@ Instead of launching things one-by-one, run one command — and boom, your entir
 ✅ Just pure speed.
 
 ---
+PixelLauncher — Commercial License Agreement
+
+By purchasing or using PixelLauncher, you agree to the following:
+
+- This software is licensed, not sold. You are granted a non-exclusive, non-transferable license to use it.
+- You may use PixelLauncher for personal and professional use on your own devices.
+- You may not redistribute, resell, modify, or reverse-engineer any part of this software.
+- You may not upload or share this software online or with others without written permission from the author.
+- The author (Umair / PixxelRaft) is not liable for any damage, loss, or issues resulting from use of this tool.
+
+© 2025 PixxelRaft. All rights reserved.
+---
 
 ## 🛠 One-Time Setup (customizable anytime)
 
